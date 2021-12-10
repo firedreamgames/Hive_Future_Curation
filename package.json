@@ -1,0 +1,14 @@
+{
+  "name": "hive_curation_estimation",
+  "version": "1.0.0",
+  "description": "Curation earning estimator for Hive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "firedream",
+  "license": "MIT",
+  "dependencies": {
+    "@hiveio/hive-js": "^2.0.4"
+  }
+}
